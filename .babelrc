@@ -1,0 +1,7 @@
+{
+	"presets": ["@babel/preset-env"],
+	"plugins": ["@babel/plugin-proposal-object-rest-spread", "@babel/plugin-transform-async-to-generator"]
+	// entende qual ambiente esta trabalhando (browser por ex) e converte as features do es6, es7, es8
+	// para o navegador entender
+	// converte automaticamente da melhor forma possível
+}
