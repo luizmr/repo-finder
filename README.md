@@ -48,7 +48,7 @@ $ git clone https://github.com/luizmr/repo-finder.git
 # Access the project folder in the cmd/terminal
 $ cd repo-finder
 
-# Install al dependencias of app in cmd/terminal
+# Install al dependencies of app in cmd/terminal
 $ npm install
 
 # Run the application in terminal
